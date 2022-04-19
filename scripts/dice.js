@@ -3,7 +3,6 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
         dice3d.addDicePreset({
                 type: "d6",
                 labels: ["modules/sr-so-nice/images/glitch.png","","","","modules/sr-so-nice/images/hit.png","modules/sr-so-nice/images/hit.png"],
-                bumpmaps: ["modules/sr-so-nice/images/glitch-bm.png","","","","modules/sr-so-nice/images/hit-bm.png","modules/sr-so-nice/images/hit-bm.png"],
                 system: "SRSN"
         });
   
