@@ -3,7 +3,8 @@
         "title": "Shadowrun So Nice",
         "description": "A simple custom die style for use with Shadowrun.",
         "version": "1.0.2", 
-        "minimumcoreversion": "0.9.0",
+        "minimumCoreVersion": "0.9.0",
+        "compatibleCoreVersion": "0.9.0",
         "author": "Poetics",
         "dependencies": [
                 {
@@ -14,6 +15,7 @@
         "scripts": [
                 "scripts/main.js"
         ],
+        "url": "https://github.com/ThePoetics/sr-so-nice/",
         "manifest": "https://raw.githubusercontent.com/ThePoetics/sr-so-nice/main/module.json",
         "download": "https://github.com/ThePoetics/sr-so-nice/raw/main/releases/srsn-1.0.2.zip",
         "readme": "https://github.com/ThePoetics/sr-so-nice",
