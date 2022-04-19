@@ -1,4 +1,4 @@
-# SR so Nice
+# Shadowrun so Nice
 A Shadowrun-based dice scheme for use with [FoundryVTT](https://foundryvtt.com) and the [Dice so Nice module](https://foundryvtt.com/packages/dice-so-nice/).
 
 
