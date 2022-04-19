@@ -11,7 +11,7 @@
                 }
         ],
         "scripts": [
-                "diceset.js"
+                "scripts/main.js"
         ],
         "url": "https://therollsmith.com/",
         "manifest": "https://github.com/ThePoetics/sr-so-nice/module.json",
