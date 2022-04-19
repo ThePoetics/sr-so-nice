@@ -1,0 +1,22 @@
+{
+        "name": "sr-so-nice",
+        "title": "Shadowrun So Nice",
+        "description": "A simple die style for use with Shadowrun that makes everything as smooth and sleek as your adventures.",
+        "version": "1.0.0",
+        "author": "Poetics",
+        "dependencies": [
+                {
+                        "type": "module",
+                        "name": "dice-so-nice"
+                }
+        ],
+        "scripts": [
+                "diceset.js"
+        ],
+        "url": "https://therollsmith.com/",
+        "manifest": "https://github.com/ThePoetics/SR_so_Nice/module.json",
+        "download": "https://github.com/ThePoetics/SR_so_Nice/1.0.0.zip",
+        "readme": "https://github.com/ThePoetics/SR_so_Nice",
+        "bugs": "https://github.com/ThePoetics/SR_so_Nice",
+        ]
+}
