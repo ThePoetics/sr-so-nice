@@ -2,7 +2,7 @@
         "name": "sr-so-nice",
         "title": "Shadowrun So Nice",
         "description": "A simple custom die style for use with Shadowrun.",
-        "version": "1.0.0", 
+        "version": "1.0.1", 
         "minimumcoreversion": "0.9.0",
         "author": "Poetics",
         "dependencies": [
