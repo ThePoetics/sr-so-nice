@@ -4,7 +4,6 @@ A Shadowrun-based dice scheme for use with [FoundryVTT](https://foundryvtt.com) 
 
 Since tests in Shadowrun are only concerned with rolls of 5, 6, and 1, this preset blanks out any other result and adds new icons for hits and potential glitches. And there's a nice, shiny gunmetal face color to boot.
 
-Sample dice below:
-{placeholder for image once I get this thing working}
+Sample:
 
-{image credits}
+![sample](https://user-images.githubusercontent.com/87587068/163941776-1a92cb0f-97d5-44af-b14f-1804848bc031.png)
