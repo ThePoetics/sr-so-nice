@@ -14,8 +14,8 @@
                 "diceset.js"
         ],
         "url": "https://therollsmith.com/",
-        "manifest": "https://github.com/ThePoetics/SR-so-Nice/module.json",
-        "download": "https://github.com/ThePoetics/SR-so-Nice/srsn-1.0.0.zip",
-        "readme": "https://github.com/ThePoetics/SR-so-Nice",
-        "bugs": "https://github.com/ThePoetics/SR-so-Nice"
+        "manifest": "https://github.com/ThePoetics/sr-so-nice/module.json",
+        "download": "https://github.com/ThePoetics/sr-so-nice/srsn-1.0.0.zip",
+        "readme": "https://github.com/ThePoetics/sr-so-nice",
+        "bugs": "https://github.com/ThePoetics/sr-so-nice"
 }
