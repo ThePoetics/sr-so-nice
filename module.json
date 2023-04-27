@@ -1,23 +1,40 @@
 {
-        "name": "sr-so-nice",
+        "id": "sr-so-nice",
         "title": "Shadowrun So Nice",
-        "description": "A simple custom die style for use with Shadowrun.",
-        "version": "1.0.2", 
-        "minimumCoreVersion": "0.9.0",
-        "compatibleCoreVersion": "0.9.0",
-        "author": "Poetics",
-        "dependencies": [
-                {
+        "description": "A simple custom die style for use with the Shadowrun game system.",
+        "version": "1.0.3", 
+        "compatibility": {
+                "minimum": "9",
+                "verified": "10"
+        },
+        "authors": [{
+                "id": "Poetics",
+                "email": "poetics@poeticsonline.net",
+                "url": "https://github.com/ThePoetics"
+        }],
+        "relationships": {
+                "systems": [{
+                        "id": "SR5-FoundryVTT",
+                        "manifest": "https://raw.githubusercontent.com/smilligan93/SR5-FoundryVTT/master/system.json",
+                        "compatibility": {
+                                "verified": "0.9"
+                        }
+                }],
+                "requires": [{
+                        "id": "dice-so-nice",
                         "type": "module",
-                        "name": "dice-so-nice"
-                }
-        ],
+                        "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json",
+                        "compatibility": {
+                                "verified": "4.6"
+                        }
+                }]
+        },
         "scripts": [
                 "scripts/main.js"
         ],
         "url": "https://github.com/ThePoetics/sr-so-nice/",
         "manifest": "https://raw.githubusercontent.com/ThePoetics/sr-so-nice/main/module.json",
-        "download": "https://github.com/ThePoetics/sr-so-nice/raw/main/releases/srsn-1.0.2.zip",
+        "download": "https://github.com/ThePoetics/sr-so-nice/raw/main/releases/srsn-1.0.3.zip",
         "readme": "https://github.com/ThePoetics/sr-so-nice",
         "bugs": "https://github.com/ThePoetics/sr-so-nice"
 }
