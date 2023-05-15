@@ -13,13 +13,6 @@
                 "url": "https://github.com/ThePoetics"
         }],
         "relationships": {
-                "systems": [{
-                        "id": "SR5-FoundryVTT",
-                        "manifest": "https://raw.githubusercontent.com/smilligan93/SR5-FoundryVTT/master/system.json",
-                        "compatibility": {
-                                "verified": "0.9"
-                        }
-                }],
                 "requires": [{
                         "id": "dice-so-nice",
                         "type": "module",
