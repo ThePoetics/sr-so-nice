@@ -2,10 +2,10 @@
         "id": "sr-so-nice",
         "title": "Shadowrun So Nice",
         "description": "A simple custom die style for use with the Shadowrun game system.",
-        "version": "1.0.3", 
+        "version": "1.0.4", 
         "compatibility": {
                 "minimum": "9",
-                "verified": "10"
+                "verified": "11"
         },
         "authors": [{
                 "name": "Poetics",
@@ -13,6 +13,13 @@
                 "url": "https://github.com/ThePoetics"
         }],
         "relationships": {
+                "systems": [{
+                        "id": "SR5-FoundryVTT",
+                        "manifest": "https://raw.githubusercontent.com/smilligan93/SR5-FoundryVTT/master/system.json",
+                        "compatibility": {
+                                "verified": "0.12"
+                        }
+                }],
                 "requires": [{
                         "id": "dice-so-nice",
                         "type": "module",
@@ -27,7 +34,7 @@
         ],
         "url": "https://github.com/ThePoetics/sr-so-nice/",
         "manifest": "https://raw.githubusercontent.com/ThePoetics/sr-so-nice/main/module.json",
-        "download": "https://github.com/ThePoetics/sr-so-nice/raw/main/releases/srsn-1.0.3.zip",
+        "download": "https://github.com/ThePoetics/sr-so-nice/raw/main/releases/srsn-1.0.4.zip",
         "readme": "https://github.com/ThePoetics/sr-so-nice",
         "bugs": "https://github.com/ThePoetics/sr-so-nice"
 }
